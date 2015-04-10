@@ -24,3 +24,7 @@ print '         ***********'
 print '           *******'
 print '             ***'
 print '              *'
+
+print 'adkfjjjjjjj'
+print 1+2
+print 3*5
